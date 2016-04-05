@@ -1,0 +1,2 @@
+# Carcassonne
+Carcassonne is a tile-based German-style board game for two to five players, designed by Klaus-Jürgen Wrede and published in 2000 by Hans im Glück in German and by Rio Grande Games (until 2012) and Z-Man Games (currently)[1] in English.[2] It received the Spiel des Jahres and the Deutscher Spiele Preis awards in 2001. It is named after the medieval fortified town of Carcassonne in southern France, famed for its city walls. The game has spawned many expansions and spin-offs, and several PC, console and mobile versions.
